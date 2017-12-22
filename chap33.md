@@ -1,6 +1,4 @@
----
-layout: book
-title: 位置参数
+位置参数
 ---
 
 One feature that has been missing from our programs is the ability to accept and process

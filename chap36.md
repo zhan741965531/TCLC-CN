@@ -1,6 +1,4 @@
----
-layout: book
-title: 数组
+数组
 ---
 
 In the last chapter, we looked at how the shell can manipulate strings and numbers.

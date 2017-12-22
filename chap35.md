@@ -1,6 +1,4 @@
----
-layout: book
-title: 字符串和数字
+字符串和数字
 ---
 
 Computer programs are all about working with data. In past chapters, we have focused on

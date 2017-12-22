@@ -1,6 +1,4 @@
----
-layout: book
-title: 流程控制：for 循环
+流程控制：for 循环
 ---
 
 In this final chapter on flow control, we will look at another of the shell’s looping constructs.

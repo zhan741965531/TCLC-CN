@@ -1,6 +1,4 @@
----
-layout: book
-title: 流程控制：while/until 循环
+流程控制：while/until 循环
 ---
 
 In the previous chapter, we developed a menu-driven program to produce various kinds

@@ -1,6 +1,4 @@
----
-layout: book
-title: 读取键盘输入
+读取键盘输入
 ---
 
 The scripts we have written so far lack a feature common in most computer programs —

@@ -1,6 +1,4 @@
----
-layout: book
-title: 疑难排解
+疑难排解
 ---
 
 As our scripts become more complex, it’s time to take a look at what happens when

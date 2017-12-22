@@ -1,6 +1,4 @@
----
-layout: book
-title: 流程控制：case 分支
+流程控制：case 分支
 ---
 
 In this chapter, we will continue to look at flow control. In Chapter 28, we constructed

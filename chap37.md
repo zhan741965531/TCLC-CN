@@ -1,6 +1,4 @@
----
-layout: book
-title: 奇珍异宝
+奇珍异宝
 ---
 
 In this, the final chapter of our journey, we will look at some odds and ends.
