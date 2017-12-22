@@ -1,6 +1,4 @@
----
-layout: book
-title: 文件系统中跳转
+文件系统中跳转
 ---
 
 The first thing we need to learn to do (besides just typing) is how to
