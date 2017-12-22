@@ -1,6 +1,4 @@
----
-layout: book
-title: 使用命令
+使用命令
 ---
 
 Up to this point, we have seen a series of mysterious commands, each with its own

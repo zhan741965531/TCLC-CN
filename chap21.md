@@ -1,6 +1,4 @@
----
-layout: book
-title: 文本处理
+文本处理
 ---
 
 All Unix-like operating systems rely heavily on text files for several types of data

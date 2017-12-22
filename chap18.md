@@ -1,6 +1,4 @@
----
-layout: book
-title: 查找文件
+查找文件
 ---
 
 As we have wandered around our Linux system, one thing has become abundantly clear:

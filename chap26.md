@@ -1,6 +1,4 @@
----
-layout: book
-title: 启动一个项目
+启动一个项目
 ---
 
 Starting with this chapter, we will begin to build a program. The purpose of this project

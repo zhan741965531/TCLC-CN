@@ -1,6 +1,4 @@
----
-layout: book
-title: 软件包管理
+软件包管理
 ---
 
 If we spend any time in the Linux community, we hear many opinions as to which of the

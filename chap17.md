@@ -1,6 +1,4 @@
----
-layout: book
-title: 网络系统
+网络系统
 ---
 
 When it comes to networking, there is probably nothing that cannot be done

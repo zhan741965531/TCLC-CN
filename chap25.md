@@ -1,6 +1,4 @@
----
-layout: book
-title: 编写第一个 Shell 脚本
+编写第一个 Shell 脚本
 ---
 
 In the preceding chapters, we have assembled an arsenal of command line tools. While

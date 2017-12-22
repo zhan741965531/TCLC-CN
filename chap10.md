@@ -1,6 +1,4 @@
----
-layout: book
-title: 权限
+权限
 ---
 
 Operating systems in the Unix tradition differ from those in the MS-DOS tradition in

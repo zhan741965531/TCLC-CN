@@ -1,6 +1,4 @@
----
-layout: book
-title: 自定制 shell 提示符
+自定制 shell 提示符
 ---
 
 In this chapter we will look at a seemingly trivial detail — our shell prompt. This

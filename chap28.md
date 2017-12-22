@@ -1,6 +1,4 @@
----
-layout: book
-title: 流程控制：if 分支结构
+流程控制：if 分支结构
 ---
 
 In the last chapter, we were presented with a problem. How can we make our report

@@ -1,6 +1,4 @@
----
-layout: book
-title: 正则表达式
+正则表达式
 ---
 
 In the next few chapters, we are going to look at tools used to manipulate text. As we

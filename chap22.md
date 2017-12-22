@@ -1,6 +1,4 @@
----
-layout: book
-title: 格式化输出
+格式化输出
 ---
 
 In this chapter, we continue our look at text related tools, focusing on programs that are

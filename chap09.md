@@ -1,6 +1,4 @@
----
-layout: book
-title: 键盘高级操作技巧
+键盘高级操作技巧
 ---
 
 I often kiddingly describe Unix as “the operating system for people who like to type.” Of

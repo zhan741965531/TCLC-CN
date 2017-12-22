@@ -1,6 +1,4 @@
----
-layout: book
-title: 存储媒介
+存储媒介
 ---
 
 In previous chapters we’ve looked at manipulating data at the file level. In this chapter,

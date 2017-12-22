@@ -1,6 +1,4 @@
----
-layout: book
-title: 进程
+进程
 ---
 
 Modern operating systems are usually multitasking, meaning that they create the illusion

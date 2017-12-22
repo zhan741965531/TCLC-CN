@@ -1,6 +1,4 @@
----
-layout: book
-title: vi 简介
+vi 简介
 ---
 
 There is an old joke about a visitor to New York City asking a passerby for directions to

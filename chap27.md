@@ -1,6 +1,4 @@
----
-layout: book
-title: 自顶向下设计
+自顶向下设计
 ---
 
 As programs get larger and more complex, they become more difficult to design, code

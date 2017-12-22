@@ -1,6 +1,4 @@
----
-layout: book
-title: 归档和备份
+归档和备份
 ---
 
 One of the primary tasks of a computer system’s administrator is keeping the system’s

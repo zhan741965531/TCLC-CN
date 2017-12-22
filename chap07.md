@@ -1,6 +1,4 @@
----
-layout: book
-title: 重定向
+重定向
 ---
 
 In this lesson we are going to unleash what may be the coolest feature of the command

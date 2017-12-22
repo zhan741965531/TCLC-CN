@@ -1,6 +1,4 @@
----
-layout: book
-title: shell 环境
+shell 环境
 ---
 
 As we discussed earlier, the shell maintains a body of information during our shell

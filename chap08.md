@@ -1,6 +1,4 @@
----
-layout: book
-title: 从 shell 眼中看世界
+从 shell 眼中看世界
 ---
 
 In this chapter we are going to look at some of the "magic" that occurs on the command
