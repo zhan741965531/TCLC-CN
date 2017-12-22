@@ -1,6 +1,4 @@
----
-layout: book
-title: 探究操作系统
+探究操作系统
 ---
 
 Now that we know how to move around the file system, it's time for a guided tour of our
