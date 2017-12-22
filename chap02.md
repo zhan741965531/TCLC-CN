@@ -1,6 +1,4 @@
----
-layout: book
-title: 什么是 shell
+什么是 shell
 ---
 
 When we speak of the command line, we are really referring to the shell. The
