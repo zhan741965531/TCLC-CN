@@ -3,8 +3,6 @@
 
 本书是  [The Linux Command Line](http://linuxcommand.org/) 的中文版,
 
-\* \[阅读\]\(book\)
-
 翻译由 [好奇猫工作室](https://haoqicat.com/)发起， 翻译者是：[happypeter](https://github.com/happypeter)， [billie66 ](http://github.com/billie66)和最最可爱的社区
 
 （[Github 贡献者名单](https://github.com/billie66/TLCL/graphs/contributors)）
